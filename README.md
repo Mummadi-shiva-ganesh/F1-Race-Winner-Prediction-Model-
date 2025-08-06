@@ -23,23 +23,6 @@ Machine learning model that predicts Formula 1 race winners with 94%+ accuracy u
 - **Libraries**: randomForest, caret, dplyr, ggplot2
 - **Data Source**: Kaggle F1 Dataset (1950-2023)
 
-## Usage
-
-```r
-# Load model and predict
-source("prediction_pipeline.R")
-predictions <- predict_race_winner(circuit, grid_data, driver_data)
-```
-
-## Files
-
-```
-├── data/           # Raw and processed datasets
-├── src/            # R scripts for modeling
-├── models/         # Trained models
-├── notebooks/      # Analysis notebooks
-└── visualizations/ # Charts and plots
-```
 
 ## Results
 
