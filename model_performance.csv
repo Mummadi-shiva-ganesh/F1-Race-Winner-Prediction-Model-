@@ -1,0 +1,4 @@
+"Model","Accuracy","Winner_Precision","Winner_Recall"
+"Random Forest",0.94,0.94,1
+"Decision Tree",0.94,0.94,1
+"Support Vector Machine",0.94,0.94,1

@@ -1,0 +1,4 @@
+"Model","Accuracy","Rank"
+"Random Forest",0.94,2
+"Decision Tree",0.94,2
+"Support Vector Machine",0.94,2

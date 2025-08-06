@@ -1,0 +1,5 @@
+"Scenario","Driver","Prediction","Win_Probability"
+"Hamilton - Monaco GP","Lewis Hamilton","No_Win",0.4
+"Verstappen - Silverstone GP","Max Verstappen","No_Win",0.2
+"Leclerc - Monza GP","Charles Leclerc","No_Win",0.6
+"Russell - Spa GP","George Russell","No_Win",0.2
